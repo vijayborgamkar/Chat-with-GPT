@@ -1,4 +1,4 @@
-# Q&A App using OpenAI's Language Model
+## Q&A App using OpenAI's Language Model & Vicuna-13B
 
 Welcome to the Q&A App powered by OpenAI's advanced language model! This application allows you to interact with either OpenAI's GPT-3.5-turbo/GPT-4 or any open source Language Model of your choice. Before getting started, make sure to install the required libraries.
 
