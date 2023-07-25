@@ -22,7 +22,7 @@ Welcome to the Q&A App powered by OpenAI's advanced language model! This applica
 ### Uploding Files
 
 1. If you have a single PDF file to work with, you can directly upload it.
-2. For multiple PDF files, use the "Merge PDF Files" option before uploading.
+2. For multiple PDF files, use the "Merge Uploaded PDF Files" option before uploading.
 3. This feature allows you to extract information and answer questions based on the uploaded documents.
 
 ![3](https://github.com/vijayborgamkar/Chat-with-GPT/assets/140548437/b3ee5740-5a71-4cc7-9aae-f227af078558)
