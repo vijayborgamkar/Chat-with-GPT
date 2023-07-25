@@ -5,7 +5,7 @@ Welcome to the Q&A App powered by OpenAI's advanced language model! This applica
 ### How to Run the App
 
 1. Open your command prompt or terminal.
-2. Enter the command: streamlit run stream.py and provide your OpenAI API key when prompted.
+2. Enter the command: streamlit run stream.py (provide your OpenAI API key in the code)
 3. The app will launch in your browser, presenting a user-friendly interface.
 
 ![1](https://github.com/vijayborgamkar/Chat-with-GPT/assets/140548437/d080eb62-b7e1-4fed-8591-d92810b4f8be)
