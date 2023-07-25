@@ -13,7 +13,7 @@ from langchain.chat_models import ChatOpenAI
 
 llm_name = "gpt-3.5-turbo"
 # llm_name = "gpt-4"
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 st.set_page_config(layout="wide")
 
